@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\HPA_Problem_Statement\Dynamic_Object_Detection\build\CMakeFiles\e4c521558c83079bc32a59213abf783f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6069AAAD-6A66-3D49-8EB3-450ED0B13382}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
